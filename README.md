@@ -1,6 +1,7 @@
 # Super_Store
 
-<img width="820" height="547" alt="image" src="https://github.com/user-attachments/assets/ad823ec6-2681-498c-85b0-9d88e5ae82e0" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/570be65c-4455-45ab-8945-428cf391f42d" />
+
 
 
 
